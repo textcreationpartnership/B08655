@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the King and publick. With Joseph Bruxby's petition, and proceedings with the Lord of the Treasury, and the commissioners of the excise, in the years 93 and 95. or a short breviate thereof.  Most humbly offered to the consideration of the honourable House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08655</idno>
+            <idno type="STC">Wing C1097A</idno>
+            <idno type="STC">ESTC R173464</idno>
+            <idno type="EEBO-CITATION">64551044</idno>
+            <idno type="OCLC">ocm 64551044</idno>
+            <idno type="VID">184428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184428)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the King and publick. With Joseph Bruxby's petition, and proceedings with the Lord of the Treasury, and the commissioners of the excise, in the years 93 and 95. or a short breviate thereof.  Most humbly offered to the consideration of the honourable House of Commons.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: creased and torn with some loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bruxby, Joseph.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184428:1"/>
+            <pb facs="tcp:184428:1" rendition="simple:additions"/>
+            <head>The Caſe of the King and Publick. With JOSEPH BRUXBY's Petition, and Proceedings with the Lords of the Treaſury, and the Commiſſioners of the Exciſe, in the years 93 and 95. or a ſhort Breviate thereof.</head>
+            <head type="sub">M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt humbly offered to the Conſideration of the Honorable Houſe of Commons.</head>
+            <p>MOST VVorthy Senators, I having ſeriouſly confider'd what His Majeſty had and did do for us in the greateſt of Hazards, and, being a Brewer, made Obſervations on the great Abuſe done to him in the Revenue of Exciſe; which tended not only to a preſent Loſs to the Crown, but to the bringing the Revenue and Trade to little, as appears, and the Ruin of unconceivable numbers of good Families; I did in 93 offer the Lords of the Treaſury, to make that Revenue cleare firſt 50, then 100000 l. <hi>per Ann.</hi> more than the then managers did, and thereby make his Majeſties loving Subjects more eaſie than under that management, and that without putting the King to a penny mere charge than he then was at, nay further, to give my own Time, and to forfeit firſt Eſtate, then Life, if I did it not. But to ſet forth how I were ſent from one to another, toſt about, and ordered to wait from time to time, with the bantering Reflections, needleſs Queſtions, with being threatned to be ſent to Priſon by one of the now Lords of the Treaſury, as they were moſt unbecoming his Perſon, Places, and Character, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> too many and not fit here to mention, a fair Hearing face to face being moſt to be credited, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will give clear light how the King and Publick have been &amp; are ſerved by perſons, <hi>&amp;c.</hi> contrary to the 12 <hi>k.</hi> 2. <hi>c.</hi> 2. and the true intent of a ſtatute made in the 5 and 6 year of <hi>Edw.</hi> 6. <hi>c.</hi> 16. and the Oath, <hi>&amp;c.</hi>
+            </p>
+            <p>I did in the year 95, give His Majeſty an account of his Loſs and the grievance of his People thereby, and ſet forth in my Petition, that his Majeſty loſt to term it, <hi>&amp;c.</hi> at leaſt 50000 l. <hi>per Ann.</hi> and what was the cauſe thereof.—His Majeſty at a convenient time was graciouſly pleas'd to take the ſame Petition into Council, and made a Special Order thereupon, and commanded the Lords of the Treaſury to make a ſpeedy Inſpection into the truth of the matters in the Petition alledged, and commanded that they ſhould give him an Account or Directions therein whether the ſame were true or falſe: but this Petition was taken from the Clerk by one of the Lords of the T. as he told me; but to ſet forth the ſtirr I had to hear where it was, how when hearing, I offer'd him not only to ſpend my time but 500 l of my own money, to ſerve the Publick. How I was ordered to wait from time to time; how when promiſsed me their Anſwers, they only made me a propoſal contracy to an Act of Parliament, as appears by their own minute Book, and as ſoon appeared by what Brewers of great worth offer'd them they could not perform. But to ſet forth how I went to <hi>Kenſington</hi> to acquaint his majeſty with the Proceedings, how by their believes of the Truth of my Allegations, and the fair promiſes of one of the Lds. of the Treaſury to do the King and his People Juſtice, I was ſent to his Friend and per<g ref="char:EOLhyphen"/>ſwaded from acquainting the King, would be too tedious. Well at laſt according to his Majeſty's Com<g ref="char:EOLhyphen"/>mand, a Hearing there was with the Commiſſioners, who in ſhort, as the moſt modeſt excuſe for the loſs of 50 or 100000 l. <hi>per Anr.</hi> did conſeſs the Allegations in the Petition were true, but excuſed themſelves as be<g ref="char:EOLhyphen"/>ing ignorant thereof as a Child: But to ſet forth how I offered the Lords, in preſence of the Commiſſio<g ref="char:EOLhyphen"/>ners, to make it appear the next day, (if Impower'd) <hi>That there was ſuch that cheated hie Majesty of</hi> 50 <hi>odd Barrels of Strorg out of</hi> 70 <hi>odd,</hi> 3 <hi>times, and ſomtimes more in a week.</hi> How the Lords ſaid they were ſatis<g ref="char:EOLhyphen"/>fied that the Allegations in my Petition were true; How they order'd me to deſire 2 more (one of which was Ld. Mayor of <hi>London</hi> not long ſince) to come to them in order to receive Powers to manage, <hi>&amp;c.</hi> What a Jeſt we were made of notwithſtanding all truth appear'd to the believes, confeſſion, and ſatisfaction, of all concern'd. But the King and Publick ſhall have Juſtice, if it agrees with the Intereſt of ſome Perſons and their Friends, while I doubt not of the Honor and Honeſty of others of the then and now Lords of the Treaſury, but the greater number may out-ballence the leſſer.</p>
+            <p>However thoſe ignorant Gentlemen were rewarded with a ſafe return to their Places, while his Majeſty was not thought, <hi>&amp;c.</hi> to be informed of the truth, according to his Royal Command on the Petition, (to which I refer this Honorable Houſe and my ſelf for more certainty;) unleſs by a non-Language, and the Loſs of ſome hundred thouland Pounds thereby. Yet the Commiſſioners will hardly complain of their over much judgment, little or many times no attendante or ſervice, the taking the moſt effectual way to bring a Trade and Revenue to little; nor the charging their Meſſenger, that if I miſt but one hour of pay<g ref="char:EOLhyphen"/>ing my Exciſe. to ſeize my Brewhouſe and all that I had; nor yet of my zeal for the good of the Publick, which was rewarded with my being left in their hands, and the unjuſt Refuſal of my money when tendred within time; and their having my Brewhouſe ſeiz'd the next day when the Office was ſhut up that no money could be paid; a poor management, and a bad reward. Good Friends are beſt known in time of need. While we have the unparraled Privilege of an Honorable Houſe of Commons to judg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their own and the Nations Grievances, 'Tis pity that 50 or 100000 l. per Ann. the keeping up of Trade with the real Good of the Publick, ſhould not be of equal Eſteem with the Intereſt of a few private Perſons. There is thoſe of unſpotted Reputes in the Brewing Trade, and worth many thouſands of pounds, that promi<g ref="char:EOLhyphen"/>ſed me to, but dreading my uſage, dare not acquaint his Majeſty with his Loſs, and the intolerable Grie<g ref="char:EOLhyphen"/>vance of the Publick thereby, of whom this Honorable Houſe will be fully ſatisfied when knowing them.</p>
+            <p>I Having acquainted his Majeſty with moſt of theſe particulars by word of mouth and writing, before and ſince his laſt return from <hi>Holland,</hi> (but it cannot be though he ſhould underſtand all the Trades out of which his Revenues ariſe, ſo as to know whether or what Perſons are rightly Qualified for the manage<g ref="char:EOLhyphen"/>ment thereof;) by reaſon of which the Publick ſuffers, and Trade and Revenues come to fall and ſinck.</p>
+            <p>And ſince his Majeſty's Special Order in Council availed nothing as to the procuring himſelf and People Juſtice, I am adviſed to lay all my Proceedings before this Honorable Houſe, who need not further be put in mind of his Majeſty's willingneſs and readyneſs to accept of your Advice and Information in matters which ſo extremly concern the Good of the Publick.</p>
+            <p>I had given this Honorable Houſe this ſhort Account ſooner, as I was adviſed, but being put off from time to time by, <hi>&amp;c.</hi> and being deſired by a very worthy Perſon one of the Commiſſioners of Exciſe, to wait upon the Commiſſioners at the Exciſe Office, ſome of whoſe worths needs not to be ſpokan of; I was told by one of them, that he did believe no perſon was ſo fit or capable to prevent the Frauds of the Brewers as one bred up a Beewer was. I told them that as in 93 and 95 I offer'd to ſerve the Publick at my own Charge, but being ſo ill Requited, as being forc'd out of my Trade. in the loſs of ſome thouſand Pounds, by having my Brewhouſe ſeiz'd when I tendred my Money at the Exciſe Office the day before, I could not now ſpend my time for nothing, but if they would make it worth my while to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngage in it, I would ingage to manage it with half the Charge, and put an effectual ſtop to the Frands of the Brewers. They offer'd me a Warrant to one of their Officers, I ſuppoſe to Inſtruct him, and promis'd to reward me according as they ſhould think I deſerv'd, or words to that effect. For me to learn a peron a Trade which coſt me ſo dear, for what they ſhall think fit, ſeems to me very unreaſonable. I want <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch Service, but <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if there were <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Commiſſion, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who being a Brewe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, know, how to manage that part, in<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>feriour <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therto relating, w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch no one of the preſent Comiſſioners knows how to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither, <hi>with ſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miſſion,</hi> can it reaſonably be expected <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould; which is the great reaſon of the Fall of the Exciſe.</p>
+            <p>The premiſes thus in ſhort hinted, the conſideration thereof <hi>is moſt humbly offered and <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>itied <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> juſt and Honorable Aſſembly,</hi> who if thinking the ſame worthy the time, trouble, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> into theſe Affairs, I ſhall be moſt glad to give my time in procuring to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utmoſt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Publick, in giving ſuch Light into Affairs as may be of laſting advantage to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Your Petitioner humbly prays, for your <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn ſatisfact<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> VVorks of Darkneſs, you would bear <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>bated, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Publ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> be promoted, and himſelf and all his <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Houſe.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Princes-ſtreet in <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Moorfields, and ſhall be <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to this <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Houſe,</hi> &amp;c.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
